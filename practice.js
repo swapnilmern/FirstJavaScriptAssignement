@@ -43,6 +43,6 @@ if ( checkAge(age) ) {
     alert( 'Access denied'+ MYCOST );
   }
 
-  console.log('Debugging 8.0') 
+  
 
 
